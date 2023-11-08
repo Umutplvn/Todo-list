@@ -70,8 +70,7 @@ Build a Todo App using ReactJS.
 - Step 6: Push your application into your own public repo on Github
 
 - Step 7: Add project gif to your project and README.md file.
-
-
+  
 ## Notes
 
 - You can add additional functionalities to your app.
